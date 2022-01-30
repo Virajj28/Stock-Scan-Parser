@@ -6,10 +6,18 @@ Project Built in ReactJS.
 <table align="center">
     <tr>
         <td>
-            <a href="https://Virajj28.github.io/stock-scan-parser">
+            <a href="https://github.com/Virajj28/Stock-Scan-Parser/blob/main/readme/homestock.png">
                 <p align="center">
-                    <img src="readme/homestock.png" alt="homepage">
-                    <p align="center">Home Page</p>
+                    <img src="readme/homestock.png" alt="data-page">
+                    <p align="center">Stock Data Page</p>
+                </p>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/Virajj28/Stock-Scan-Parser/blob/main/readme/criteria.png">
+                <p align="center">
+                    <img src="readme/criteria.png" alt="criteria-page">
+                    <p align="center">Stock Data Criteria Page</p>
                 </p>
             </a>
         </td>
