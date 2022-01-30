@@ -8,7 +8,7 @@ Project Built in ReactJS.
         <td>
             <a href="https://Virajj28.github.io/stock-scan-parser">
                 <p align="center">
-                    <img src="readme/homepage.png" alt="homepage">
+                    <img src="readme/homestock.png" alt="homepage">
                     <p align="center">Home Page</p>
                 </p>
             </a>
