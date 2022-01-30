@@ -68,8 +68,6 @@ function App() {
                 ))
             })
         }
-
-        <button onClick={()=> setCondition(false)}>Back</button>
     </div>
   );
 }
